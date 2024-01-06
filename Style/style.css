@@ -7,6 +7,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
 }
 .text-primary{
     color:#FD6E0A;
@@ -24,6 +25,10 @@ nav a{
     text-decoration: none;
     color: grey;
 }
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+}
 .primary-btn{
 border-radius: 5px;
 background: #FD6E0A;
@@ -38,4 +43,11 @@ padding: 18px 35px;
 color: black;
 font-size: 45px;
 font-weight: 800;
+}
+/* hedaer background color */
+.header{
+    background-color: #FFF8F3;
+}
+.banner .profile-pic{
+    width: 500px;
 }
