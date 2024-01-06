@@ -180,4 +180,24 @@ footer{
     background: #FFF8F3;
     padding: 130px 230px;
     margin-top: 113px;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+form input,textarea{
+    display: block;
+}
+.contact input[type=text],.contact input[type=email],textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color:  #757575;
+    border-radius: 5px;
+    background:  #FFF; 
+    border: 0;
+    width: 100%;
+}
+.social-link a{
+    margin-right: 24px;
 }
