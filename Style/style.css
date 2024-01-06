@@ -144,3 +144,34 @@ color: #474747;
 font-size: 30px;
 font-weight: 700;
 }
+.resume-container
+{
+    display: flex;
+    gap: 70px;
+    margin-top: 110px;
+}
+.resume-iteam-description{
+color:  #757575;
+font-size: 16px;
+font-weight: 400;
+}
+.resume-iteam-institute
+{
+ color:  #757575;
+font-size: 20px;
+font-weight: 600;
+}
+.resume-iteam-institute{
+ color: #474747;
+font-size: 25px;
+font-weight: 700;
+}
+.Download-buttom{
+    text-align: center;
+    padding: 19px 20px;
+    margin-top: 60px;
+color:  #FFF;
+font-size: 20px;
+font-weight: 700;
+
+}
